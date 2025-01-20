@@ -15,8 +15,8 @@ This is a React application built using Next.js, TypeScript, and Material-UI. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/your-project.git
-   cd your-project
+   git clone https://github.com/chaitali1492/news-app-poc
+   cd bbc-news-poc
    ```
 
 2. Install dependencies:
